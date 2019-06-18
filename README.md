@@ -1,1 +1,1 @@
-This website is a project coming from Brad Traversy's HTML & CSS course.
+This website is a project coming from Brad Travery's course "Modern HTML & CSS from the beginning".
