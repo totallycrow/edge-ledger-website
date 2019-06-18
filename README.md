@@ -1,0 +1,1 @@
+This website is a project coming from Brad Traversy's HTML & CSS course.
