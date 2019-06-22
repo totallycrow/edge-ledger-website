@@ -73,10 +73,10 @@ p {
 }
 
 .btn-dark {
-    background: #222;
+    background: #2762c6;
     color: #fff;
-
 }
+
 
 .btn:hover {
     background: #444;
@@ -91,6 +91,11 @@ p {
 .bg-dark {
     background:  #333;
     color:#f4f4f4;
+}
+
+.bg-primary {
+    background: #444;
+    color: #f4f4f4;
 }
 
 .list {
@@ -213,4 +218,45 @@ div.who-text p {
     display: block;
     margin: auto;
     width: 60%;
+}
+
+
+/* Section: Contact */
+#contact {
+    display: flex;
+}
+
+
+
+#contact .btn:hover {
+
+        background: #7a89ff;
+        color: #fff;
+}
+
+#contact .map, #contact .contact-form {
+    flex: 1;
+}
+
+#contact .contact-form .form-group {
+    margin: 0.75rem;
+}
+
+#contact .contact-form label {
+    display: block;
+}
+
+#contact .contact-form input,
+#contact .contact-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+}
+
+#contact .contact-form .submit-button {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+
+ 
 }
