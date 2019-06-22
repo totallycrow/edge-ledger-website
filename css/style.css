@@ -201,3 +201,16 @@ div.who-text h2 {
 div.who-text p {
     text-align: center
 }
+
+/* Clients */
+
+#clients .items {
+    display: flex;
+}
+
+#clients .items img {
+    flex: 1;
+    display: block;
+    margin: auto;
+    width: 60%;
+}
